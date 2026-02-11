@@ -1,0 +1,47 @@
+nav{
+    background-color: tan;
+    padding: 20px 0;
+    text-align: center;
+    margin: 0;
+    background-image:url(image.jpg) ;
+    }
+
+nav a{
+    color: black;
+    text-decoration: none;
+    padding: 40px ;
+}
+p{
+    text-align: center;
+}
+p h2{
+    text-align: center;
+}
+dt{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contact{
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f5f5f5;
+}
+
+.contact h2{
+  font-size: 29px;
+}
+.contact-text{
+  color: #555;
+  margin-bottom: 25px;
+}
+.contact-box{
+  background-color: white;
+  display: inline-block;
+  padding: 20px 40px;
+}
+.contact-box p{
+  margin: 10px 0;
+  font-size: 18px;
+}
+div {
+    font: size 5px;;
+}
